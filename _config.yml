@@ -1,5 +1,5 @@
 title: Welcome to Rara's Site
-name: rarashadah
+name: Hazaharah Shadah
 email: hazahara.hh@gmail.com
 description: This site is flexibel, made by Jekyll and Bootstrap. If you wanna know about this site, 
 please visit <a href="https://github.com/hazaharaShadah/">my site</a>.
@@ -36,7 +36,7 @@ project_button: Information System
 github: 'https://github.com/hazaharaShadah'
 linkedin: 'https://linkedin.com/in/hazahara-shadah-994290135/'
 
-baseurl: '/hazaharaShadah.github.io/' #if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
+baseurl: '/Hazahara Shadah' #if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
 url: 'http://hazaharaShadah.github.io/' #http://localhost:4000/ #the url of your site
 
 google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
