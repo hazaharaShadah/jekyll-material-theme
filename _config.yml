@@ -1,38 +1,40 @@
-title: Hazahara Shadah's Site
+title: Welcome to Rara's Site
 name: rarashadah
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+email: hazahara.hh@gmail.com
+description: This site is flexibel, made by Jekyll and Bootstrap. If you wanna know about this site, 
+please visit <a href="https://github.com/hazaharaShadah/">my site</a>.
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
-project_one_icon: location_on
+project_one: State Islamic University of Sultan Syarif Kasim Riau
+project_one_description: State Islamic University of Sultan Syarif Kasim Riau familiar with UIN SUSKA Riau. In this university where I study.
+project_one_url: 'https://uin-suska.ac.id/'
+project_one_icon: graduation-cap
+project_button: UIN SUSKA Riau
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
-project_two_icon: photo_camera
+project_two: Science and Technology Faculty
+project_two_description: Science and Technology Faculty familiar with FASTE.
+project_two_url: 'https://fst.uin-suska.ac.id'
+project_two_icon: cogs
+project_button: FASTE
+
+project_three: Information System
+project_three_description: Information System is my departement. We study 2 majors, bussiness and IT.
+project_three_url: 'https://sif.uin-suska.ac.id'
+project_three_icon: desktop
+project_button: Information System
+
+#project_four: Fourth Project
+#project_four_description: Describe your project!
+#project_four_url: https://github.com/jameshamann/jekyll-material-theme
+#project_four_icon: restaurant
 
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
-project_three_icon: hotel
 
 
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
-
-
-project_button: Github
-
-github: https://github.com/jameshamann/jekyll-material-theme
-medium: https://medium.com
+github: 'https://github.com/hazaharaShadah'
+linkedin: 'https://linkedin.com/in/hazahara-shadah-994290135/'
 
 baseurl: '/hazaharaShadah.github.io/' #if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
 url: 'http://hazaharaShadah.github.io/' #http://localhost:4000/ #the url of your site
